@@ -5,10 +5,16 @@
 
 ### Current Projects
 
-![todolist-vanilajs](https://github-readme-stats.vercel.app/api/pin/?username=changhoji&repo=todolist-vanilajs)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=changhoji&repo=todolist-vanilajs" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=changhoji&repo=hobby-us" />
+</a>
 
-![hobby-us](https://github-readme-stats.vercel.app/api/pin/?username=changhoji&repo=hobby-us)
-
-![what-to-solve](https://github-readme-stats.vercel.app/api/pin/?username=changhoji&repo=what-to-solve)
-
-![flutter-minesweeper](https://github-readme-stats.vercel.app/api/pin/?username=enihsgnir&repo=flutter-minesweeper)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=changhoji&repo=what-to-solve" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=enihsgnir&repo=flutter-minesweeper" />
+</a>
