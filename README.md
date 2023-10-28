@@ -1,20 +1,14 @@
-### HYU Classes
+### About Me
 
-![os](https://github-readme-stats.vercel.app/api/pin/?username=changhoji&repo=ELE3021-OS) 
-![cg](https://github-readme-stats.vercel.app/api/pin/?username=changhoji&repo=CSE4020-CG)
+- Undergraduate Student in [HYU CSE](http://cs.hanyang.ac.kr/)
 
-### Current Projects
+### Skills
 
-<a href="https://github.com/changhoji/todolist-vanilajs">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=changhoji&repo=todolist-vanilajs" />
-</a>
-<a href="https://github.com/changhoji/hobby-us">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=changhoji&repo=hobby-us" />
-</a>
+[![My Skills](https://skillicons.dev/icons?i=c,js,html,css,react,nextjs,flutter,swift)](https://skillicons.dev)
 
-<a href="https://github.com/changhoji/what-to-solve">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=changhoji&repo=what-to-solve" />
-</a>
-<a href="https://github.com/enihsgnir/flutter-minesweeper">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=enihsgnir&repo=flutter-minesweeper" />
-</a>
+- I am learning swiftui in this semester's class
+
+### I'm interested in
+
+- use proper packages
+- good user experience
