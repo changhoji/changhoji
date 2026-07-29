@@ -1,6 +1,6 @@
 ### About Me
 
-- Undergraduate Student in [HYU CSE](http://cs.hanyang.ac.kr/)
+- Master Student in [Computer Grahpics & Robotics Lab](https://cgrhyu.github.io/)
 
 ### I'm interested in
 
