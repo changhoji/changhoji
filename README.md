@@ -1,6 +1,6 @@
 ### About Me
 
-- Master Student in [Computer Grahpics & Robotics Lab](https://cgrhyu.github.io/)
+- Master Student at [Computer Grahpics & Robotics Lab](https://cgrhyu.github.io/)
 
 ### I'm interested in
 
